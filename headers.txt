@@ -1,0 +1,24 @@
+Name: Vivian Nguyen
+Class: CSCI 3916-001 
+
+Request Headers: provides meta-information about the content
+User-Agent: PostmanRuntime/7.26.8: identifies the browser or tool initiating the request
+Accept: */*: indicates the acceptable media types, languages, and character sets on the client (JSON, XML,...)
+Postman-Token: 69cb5e58-9937-4e64-bbe5-f3f0a0728f81: identifies token that Postman sends
+Host: www.googleapis.com: indicates where the request goes to
+Accept-Encoding: gzip, deflate, br: indicates how the request is encoded
+Connection: keep-alive: indicates whether the connection is kept alive or close
+Response Header: provides meta-information about the content
+Content-Type: application/json; charset=UTF-8: identifies the format of the content 
+Vary: Origin: headers
+Vary: X-Origin: headers
+Vary: Referer: headers
+Content-Encoding: gzip: provides information about the encoding of the message
+Date: Wed, 27 Jan 2021 20:31:57 GMT: the date of the response
+Server: ESF: the type of server
+Cache-Control: private: identifies whether a cache is private or public
+X-XSS-Protection: 0: indicates different site protections
+X-Frame-Options: SAMEORIGIN: identifies where it's called from
+X-Content-Type-Options: nosniff: identifies security protection
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked: indicates how the response is encoded
